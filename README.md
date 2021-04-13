@@ -13,5 +13,5 @@ Here are some ideas to get you started:-->
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at thamnees611@gmail.com ! I'll try to respond as soon as I can.\
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Thamnees&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Thamnees)](https://github.com/anuraghazra/github-readme-stats)
 
